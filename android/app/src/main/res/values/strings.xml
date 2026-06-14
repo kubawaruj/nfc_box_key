@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">nfc_box_key</string>
+    <string name="app_name">NFC_Box_Key</string>
     <string name="servicedesc">Klucz cyfrowy do Skrzynki Przemysł 4.0</string>
     <string name="aiddescription">Karta dostępu RFID/NFC</string>
 </resources>
